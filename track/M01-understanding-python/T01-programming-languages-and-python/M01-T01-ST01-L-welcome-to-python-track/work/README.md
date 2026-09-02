@@ -1,27 +1,27 @@
 # Welcome to the Python Track
 
-## My Name
+## my name
 
-Write your name.
+soumya patil
 
 ## What I Learned in Foundation Month
 
-Write at least three things you learned.
+Basic of python 
 
 ## Why I Selected Python
 
-Write your reason in your own words.
+python is ruleing the IT company ,it has future in upcoming future 
 
 ## My Career Goal
 
-Write the role you want to achieve.
+i want to become a developer
 
 ## What I Understood Today
 
-Complete these sentences:
+To understand how to install python ,git,github
 
-Programming means:
+to learn how it works using real world
 
-Python is:
+python is programming language
 
-In this track, I will learn:
+i will learn how to built the software
