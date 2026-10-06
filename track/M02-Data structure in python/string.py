@@ -134,42 +134,42 @@ print(s2 is s2)
 # 1. Extract the first 3 characters
 
 text = "Python"
-print(text[0:3])
+print(text[0:3])#pyt
 
 # 2. Extract characters from index 1 to 4
 
 text = "Programming"
-print(text[1:5])
+print(text[1:5])#rogr
 
 # 3. Extract characters from index 2 to 5
 
 text = "Developer"
-print(text[2:6])
+print(text[2:6])#velop
 
 # 4. Extract characters from index 3 to 6
 
 text = "Computer"
-print(text[3:7])
+print(text[3:7])#pute
 
 # 5. Extract the first 4 characters
 
 text = "Artificial"
-print(text[0:4])
+print(text[0:4])#Arti
 
 # 6. Extract characters from index 2 to 6
 
 text = "Education"
-print(text[2:7])
+print(text[2:7])#ucatio
 
 # 7. Extract characters from index 4 to 9
 
 text = "JavaScript"
-print(text[4:10])
+print(text[4:10])#scr
 
 # 8. Extract characters from index 4 to 9
 
 text = "DataScience"
-print(text[4:10])
+print(text[4:10])#scr
 
 # ------------------------------------------------------------
 
@@ -182,32 +182,32 @@ print(text[4:10])
 # 9. Extract from beginning to index 5
 
 text = "PythonProgramming"
-print(text[:6])
+print(text[:6])#Python
 
 # 10. Extract from index 6 to the end
 
 text = "PythonProgramming"
-print(text[6:])
+print(text[6:])#Programming
 
 # 11. Extract from beginning to index 8
 
 text = "FullStackDeveloper"
-print(text[:9])
+print(text[:9])#FullStac
 
 # 12. Extract from index 9 to the end
 
 text = "FullStackDeveloper"
-print(text[9:])
+print(text[9:])#Developer
 
 # 13. Extract from beginning to index 6
 
 text = "MachineLearning"
-print(text[:7])
+print(text[:7])#machine
 
 # 14. Extract from index 7 to the end
 
 text = "MachineLearning"
-print(text[7:])
+print(text[7:])#learning
 
 
 
@@ -224,32 +224,32 @@ print(text[7:])
 # 15. Take every second character
 
 text = "ABCDEFGHIJ"
-print(text[0:8:2])
+print(text[0:8:2])#acegi
 
 # 16. Take every second character
 
 text = "ABCDEFGHIJ"
-print(text[1:9:2])
+print(text[1:9:2])#BDFHJ
 
 # 17. Take every third character
 
 text = "ABCDEFGHIJKL"
-print(text[0:12:3])
+print(text[0:12:3])#adgjm
 
 # 18. Take every second character
 
 text = "ABCDEFGHIJKL"
-print(text[2:10:2])
+print(text[2:10:2])#cegi
 
 # 19. Take every second number
 
 text = "1234567890"
-print(text[0:10:2])
+print(text[0:10:2])#24680
 
 # 20. Take every second number starting from index 1
 
 text = "1234567890"
-print(text[1:9:2])
+print(text[1:9:2])#24680
 
 # ------------------------------------------------------------
 
@@ -260,13 +260,13 @@ print(text[1:9:2])
 # 21. Take every third character
 
 text = "Programming"
-print(text[0:11:3])
+print(text[0:11:3])#Pormi
 
 
 # 22. Take every third character starting from index 1
 
 text = "Programming"
-print(text[1:10:3])
+print(text[1:10:3])#roag
 
 
 
@@ -275,23 +275,23 @@ print(text[1:10:3])
 # 23. Take every second character
 
 text = "PythonProgramming"
-print(text[2:14:2])
+print(text[2:14:2])#thrgmir
 
 
 # 24. Take every third character
 
 text = "PythonProgramming"
-print(text[1:15:3])
+print(text[1:15:3])#yhnrnm
 
 # 25. Take every second character
 
 text = "ABCDEFGHIJKLMNO"
-print(text[3:13:2])
+print(text[3:13:2])#DFHJLN
 
 # 26. Take every third character
 
 text = "ABCDEFGHIJKLMNO"
-print(text[2:14:3])
+print(text[2:14:3])#CFIL
 
 # ------------------------------------------------------------
 
@@ -302,22 +302,22 @@ print(text[2:14:3])
 # 27. Predict the output
 
 text = "PythonProgramming"
-print(text[0:16:4])
+print(text[0:16:4])#Pti
 
 # 28. Predict the output
 
 text = "ABCDEFGHIJKLM"
-print(text[1:12:3])
+print(text[1:12:3])#BEHIK
 
 # 29. Predict the output
 
 text = "DataScienceWithPython"
-print(text[4:18:2])
+print(text[4:18:2])#SceWitv
 
 # 30. Predict the output
 
 text = "FullStackDevelopment"
-print(text[2:19:3])
+print(text[2:19:3])#LtaDlv
 
 # ------------------------------------------------------------
 
@@ -375,3 +375,8 @@ print(text[0:10:2])
 
 text = "FullStackDeveloper"
 print(text[4:16:2])
+
+#negative sliceing
+
+s = 'python'
+print(s[-5:-2:-1])
